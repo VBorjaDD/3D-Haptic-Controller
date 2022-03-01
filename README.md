@@ -8,6 +8,7 @@ The device is intended primarily for 2 uses:
 The aforementioned tailoring can be followed up by performance tracking, fatigue and special needs, which would be used to increase the quality of training and tracking of the evolution.
 
 Bellow it can be found videos of the last stabilizing test:
+
 https://user-images.githubusercontent.com/30259634/156215392-c507a673-42e5-492a-a674-068f0fa65a87.mp4
 
 https://user-images.githubusercontent.com/30259634/156215643-9cf9c3b2-c321-48e0-aff9-d65be72161e4.mp4
