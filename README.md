@@ -1,6 +1,6 @@
 # 3D Haptic Controller
 Based on the semester project outcome of Louis Jouret (September 2021- January 2022). Supervisor Victor Borja
-Detailed information can be find in [FlyingCelluloReport.pdf](/FlyingCelluloReport.pdf)
+Detailed information can be found in [FlyingCelluloReport.pdf](/FlyingCelluloReport.pdf)
 
 ## Abstract
 This project aims to study the feasibility of haptic feedback in a 3D space. There is an increasing demand for such solutions, mainly in rehabilitation since they remove the need for a daily appointment with a therapist and enable the gamification of rehabilitation.
